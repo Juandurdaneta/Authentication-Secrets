@@ -1,0 +1,17 @@
+[33mcommit 00ee4b6eb2610a4f662e9318792dddd95b2f3164[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Juan Urdaneta <juandurdanet@gmail.com>
+Date:   Wed Sep 1 22:26:47 2021 -0400
+
+    Level 3 - Hashing passwords
+
+[33mcommit db010390026e37231d0a90ad22ce6401cb78670d[m
+Author: Juan Urdaneta <juandurdanet@gmail.com>
+Date:   Wed Sep 1 21:30:27 2021 -0400
+
+    Level 2 - Database Encryption
+
+[33mcommit d3f94384edd254bf72715af9f003f952d825c6fb[m
+Author: Juan Urdaneta <juandurdanet@gmail.com>
+Date:   Wed Sep 1 18:34:08 2021 -0400
+
+    Level 1 - Username and Password Only
